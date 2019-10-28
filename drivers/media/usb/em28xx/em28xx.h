@@ -25,7 +25,7 @@
 
 #include <linux/bitfield.h>
 
-#define EM28XX_VERSION "0.2.2"
+#define EM28XX_VERSION "0.2.2-mod"
 #define DRIVER_DESC    "Empia em28xx device driver"
 
 #include <linux/workqueue.h>
